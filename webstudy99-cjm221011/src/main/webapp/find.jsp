@@ -13,8 +13,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-<div class="container pt-3">
-git study index 추가작업 2
+<div class="container pt-3"> 
+git study index 추가작업 2 추가작업3
 </div>
 </body>
 </html>
